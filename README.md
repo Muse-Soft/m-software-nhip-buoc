@@ -6,7 +6,7 @@ Landing page một trang cho studio khiêu vũ Nhịp Bước: hero ảnh lớn 
 
 ## Demo trực tiếp
 
-Đang triển khai — link demo sẽ được cập nhật tại đây khi có.
+Demo trực tiếp: https://m-software-nhip-buoc.genalpha.dev
 
 ## Cách xem
 
